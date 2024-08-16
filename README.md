@@ -1,2 +1,3 @@
-# flutter_migros_grocery
-Grocery application connected to database, authentification using cloud
+# migros_small_app_debug
+
+A new Flutter project.
