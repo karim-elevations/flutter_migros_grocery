@@ -1,6 +1,6 @@
 # migros_small_app_debug
 
-# 🎉 Mon Application Flutter 🚀
+# 🎉 Mini projet Application produits Migros Flutter  🚀
 
 Bienvenue dans **Mon Application Flutter** ! C'est une application simple construite avec Flutter et connectée à Supabase. Elle utilise PostgreSQL pour la base de données, le stockage en cloud pour les fichiers, et l'authentification en cloud pour la gestion des utilisateurs.
 
@@ -16,7 +16,7 @@ Bienvenue dans **Mon Application Flutter** ! C'est une application simple constr
 
 1. **Cloner le dépôt** :
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-repository.git
+    git clone https://github.com/karim-elevations/flutter_migros_grocery.git
     ```
 
 2. **Naviguer dans le répertoire** :
@@ -41,7 +41,7 @@ Bienvenue dans **Mon Application Flutter** ! C'est une application simple constr
 
 Si la page d'inscription ne fonctionne pas correctement, vous pouvez utiliser les identifiants par défaut suivants pour tester l'application :
 
-- **Email** : `test@example.com`
+- **Email** : `esigkarim@mini-projet.ch`
 - **Mot de passe** : `esig1234`
 
 ## ⚠️ Avertissements
@@ -51,7 +51,7 @@ Si la page d'inscription ne fonctionne pas correctement, vous pouvez utiliser le
 
 ## 📢 Contact
 
-Pour toute question ou retour, veuillez contacter [votre-email@example.com](mailto:votre-email@example.com).
+Pour toute question ou retour, veuillez contacter [karimelmezouri@gmail.com](mailto:karimelmezouri@gmail.com).
 
 ## 📄 License
 
