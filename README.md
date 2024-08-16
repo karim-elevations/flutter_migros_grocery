@@ -4,6 +4,9 @@
 
 Bienvenue dans **Mon Application Flutter** ! C'est une application simple construite avec Flutter et connectée à Supabase. Elle utilise PostgreSQL pour la base de données, le stockage en cloud pour les fichiers, et l'authentification en cloud pour la gestion des utilisateurs.
 
+Le projet est disponible sur le lien suivant : https://flutter-migros-grocery.vercel.app/
+Merci de bien vouloir utiliser votre appareil iOS ou Android, car la version sur les navigateur tel que chrome ne permette pas de parcourir les fichier en local lors du CRUD des produits.
+
 ## 📦 Fonctionnalités
 
 - 🧩 **Interface Flutter** : Une interface utilisateur fluide et moderne.
